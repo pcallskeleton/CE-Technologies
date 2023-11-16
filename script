@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://ce.scriptemt.repl.co/Neurav.lua', true))()
+loadstring(game:HttpGet('https://proxy.scriptemt.repl.co/main.lua', true))()
