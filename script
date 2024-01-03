@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://disruptancex.repl.app/main.lua', true))()
+loadstring(game:HttpGet('https://disruptancex.replit.app/main.lua', true))()
